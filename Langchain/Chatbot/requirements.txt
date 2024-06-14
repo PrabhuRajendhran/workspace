@@ -1,0 +1,5 @@
+langchain
+langchain_anthropic
+langchain_community
+langserve[all]
+python-dotenv
